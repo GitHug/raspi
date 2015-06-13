@@ -9,7 +9,7 @@ The programming was done with the following setup in mind
   <li>A bunch of jumper wires</li>
 </ul>
 
-By reading the value of the photo cell the lights light up. A darker environment makes a higher value which makes more LEDs ligt up. The values chosen here were chosen according to the light level by my desk and might have to be calibrated according to your environment.
+By reading the value of the photo cell the lights light up. A darker environment makes a higher value which makes more LEDs ligt up. The values chosen here were chosen according to the light level by my desk and might have to be calibrated according to your environment. See below for how to connect it.
 
 <h3>How to run it?</h3>
 Start by installing Pi4J on your Raspberry Pi
@@ -38,5 +38,7 @@ The application runs until you enter something on your keyboard and press enter.
 <h3>Finally</h3>
 Have fun!
 
+<img src="https://cloud.githubusercontent.com/assets/3191489/8144396/691b9a92-11dd-11e5-984a-12b1e67b0ff3.jpg"></img>
+<img src="https://cloud.githubusercontent.com/assets/3191489/8144402/a4232df8-11dd-11e5-9078-766c9ac51855.jpg"></img>
 
 
