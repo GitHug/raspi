@@ -7,7 +7,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 /**
  * Created by Fredrik Mäkilä on 15-05-21.
  */
-public class Pi4J {
+public class Raspi {
 
     public static void main(String[] args) throws InterruptedException {
         final AtomicBoolean turnOff = new AtomicBoolean();
