@@ -31,7 +31,7 @@ Then build the code and transfer the generated class files to your Raspberry Pi 
 
 When you have your compiled classes on your Raspberry Pi change the directory to their location and run the following command to execute.
 ```
-sudo java -classpath .:classes:/opt/pi4j/lib/'*' Pi4J
+sudo java -classpath .:classes:/opt/pi4j/lib/'*' Raspi
 ```
 The application runs until you enter something on your keyboard and press enter. It might be a good idea to do this instead of killing the application as the pins will remain high and the lights will still be on if they were before.
 
